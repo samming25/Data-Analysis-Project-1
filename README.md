@@ -5,7 +5,7 @@ Segment Shopping Customers
 
 **Problem Statement** : Understand the Target Customers for the marketing team to plan a strategy
 
-The Approach 
+**The Approach **
 
 1- Perform some quick EDA(Exploratory Data Analysis)
 
@@ -15,9 +15,11 @@ The Approach
 
 4- Visualize 
 
+
+
 **Analysis**
 
-Taregt group would be cluster 1 which has a high Spending Score and high Income 
+Target group would be cluster 1 which has a high Spending Score and high Income 
 
 54 percent of cluster 1 shoppers are women . We should look for ways to attract these customers using a marketing campaign targeting popular items in this Cluster. 
 
