@@ -3,12 +3,15 @@ Python Customer Segmentation & Clustering
 
 Segment Shopping Customers 
 
-**Problem Statement** : understand the Target Customers for the marketing team to plan a strategy
+**Problem Statement** : Understand the Target Customers for the marketing team to plan a strategy
 
 The Approach 
 1- Perform some quick EDA(Exploratory Data Analysis)
+
 2- Use KMEANS Clustering Algorithm to create our Segments
+
 3- Use Summary Statics on the Cluster 
+
 4- Visualize 
 
 **Analysis**
