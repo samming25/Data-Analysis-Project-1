@@ -5,7 +5,7 @@ Segment Shopping Customers
 
 **Problem Statement** : Understand the Target Customers for the marketing team to plan a strategy
 
-**The Approach **
+**The Approach**
 
 1- Perform some quick EDA(Exploratory Data Analysis)
 
